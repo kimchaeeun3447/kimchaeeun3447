@@ -1,14 +1,21 @@
-### Hi there 👋
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=300&text=CHAEEUN%20KIM&animation=fadeIn&fontAlign=70&fontSize=70&rotate=19&fontAlignY=35&descAlign=70.&descAlignY=44" />
 
-### ⚡SKILLS⚡
+  <br>
+  
+### 🔲TECH STACK🔲
 ---
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 
+   <br>
+  
+### 🔲GITHUB STATS🔲  
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimchaeeun3447&show_icons=true&theme=dark) 
-
+</div>
 <!--
 **kimchaeeun3447/kimchaeeun3447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
