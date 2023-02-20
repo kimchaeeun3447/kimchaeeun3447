@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
 <img src="https://img.shields.io/badge/Git-f05030?style=for-the-badge&logo=Git&logoColor=white"> 
+<br>
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 </div>
 <!--
 **kimchaeeun3447/kimchaeeun3447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
